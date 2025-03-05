@@ -20,7 +20,6 @@ During the internship, multiple technical projects were undertaken, including se
 - [Skills Gained](#skills-gained)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
