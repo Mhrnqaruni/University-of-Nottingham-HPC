@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Industrial Training Final Report from the University of Nottingham Malaysia. The report documents a 25-week internship focusing on High-Performance Computing (HPC), Artificial Intelligence (AI), Linux administration, scientific computing, and system development. 
+This repository contains the Industrial Training Final Report from the University of Nottingham. The report documents a 1 year internship and work experience focusing on High-Performance Computing (HPC), Artificial Intelligence (AI), Linux administration, scientific computing, and system development. 
 
 During the internship, multiple technical projects were undertaken, including setting up HPC clusters, optimizing MATLAB job scheduling, running AI-driven image processing tasks, migrating databases, and benchmarking CPU vs GPU performance.
 
